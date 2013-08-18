@@ -9,4 +9,4 @@ These documents and code samples are for designers and developers. If you're a w
 
 ### Quick start guide
 
-If you're new to VineSpring integrations, the quick start guide is the best place to go. It provides a general overview of required effort and skills, code samples, and more.
+If you're new to VineSpring integrations, <a href="https://github.com/vinespring/Integration/wiki/Quick-Start">the quick start guide</a> is the best place to go. It provides a general overview of required effort and skills, code samples, and more.
