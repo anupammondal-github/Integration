@@ -1,12 +1,12 @@
 VineSpring Integration
 ======
 
-This project contains a set of JavaScript plugins that allow you to integrate VineSpring eCommerce features into any website.
+This project contains a set of JavaScript plugins that allow you to integrate <a href="http://vinespring.com">VineSpring eCommerce</a> features into your website.
 
 ### Who is this for?
 
 These documents and code samples are for designers and developers. If you're a winery admin, and have questions on how to use your VineSpring administrative area, or need general support, please <a href="mailto:support@vinespring.com">contact our customer support staff</a>.
 
-### Quick start guide
+### Getting started
 
-If you're new to VineSpring integrations, <a href="https://github.com/vinespring/Integration/wiki/Quick-Start">the quick start guide</a> is the best place to go. It provides a general overview of required effort and skills, code samples, and more.
+If you're a VineSpring integrator, you can <a href="https://github.com/vinespring/Integration/wiki">visit the wiki to get started</a>.
